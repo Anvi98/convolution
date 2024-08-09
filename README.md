@@ -37,7 +37,7 @@ This function returns the dimensions of the input matrix and the kernel.
 - kernel: A 2D array representing the convolution kernel.
 - Returns: A tuple containing the number of rows and columns of both the matrix and the kernel.
 
-### element_wise_matmul
+### `element_wise_matmul`
 
 ```
 template <size_t M, size_t N>
@@ -52,7 +52,7 @@ Performs element-wise multiplication between a sub-matrix of the main matrix and
 - kernel: A 2D array representing the convolution kernel.
 - Returns: A tuple containing the sum of the element-wise multiplication results and the resulting sub-matrix.
 
-### conv2D
+### `conv2D`
 
 ```
 template <size_t M, size_t N, size_t O, size_t P>
