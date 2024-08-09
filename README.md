@@ -87,7 +87,7 @@ You can compile the program using g++ as follows:
 
 
 ```
-g++ main.cpp matrices.cpp -o convolution_program
+g++ conv.cpp toy_matrices.cpp -o ./conv
 
 ```
 ## Example Output
