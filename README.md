@@ -1,5 +1,5 @@
 
-# Convolution Program
+# Convolution in C++
 
 This project implements a basic 2D convolution operation using C++. Below is the detailed documentation of the functions and their usage.
 
